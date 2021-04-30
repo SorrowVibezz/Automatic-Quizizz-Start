@@ -3,8 +3,8 @@ This script automatically starts your quizizz game while you wait for your teach
 # Requirements
 1. Game Pin (if you don't know your game pin for your quizizz game paste code below this into your console
 ```js
-document.body.firstChild.__vue__.$store._vm.$data.$$state.game.data.roomCode```
-
+document.body.firstChild.__vue__.$store._vm.$data.$$state.game.data.roomCode
+```
 # Try it
 Press crtl + shift + j and copy paste the code below into your console
 ```js
