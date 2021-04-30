@@ -14,4 +14,4 @@ fetch("https://raw.githubusercontent.com/glixzzy/Automatic-Quizizz-Start/main/bu
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-Developed by: Glizzy Flizzy Dlizzy Blizzy✔#0777 Sean V#5213
+**Developed by: Glizzy Flizzy Dlizzy Blizzy✔#0777 Sean V#5213**
